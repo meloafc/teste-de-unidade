@@ -1,4 +1,4 @@
-package leilao.teste;
+package leilao.dominio;
 
 import static org.junit.Assert.assertEquals;
 
